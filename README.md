@@ -1,2 +1,4 @@
 # ROS-Cheatsheet
-It's a personal repository to find topics easily regarding ROS.
+
+1. List regarding ROS topic:  http://wiki.ros.org/rostopic
+2. List regarding ROS bag: http://wiki.ros.org/rosbag/
